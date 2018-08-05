@@ -1,1 +1,2 @@
-# Basic-Portfolio
+# HeyItsMike.github.io
+This is Mike Wylie's repository
